@@ -1,0 +1,94 @@
+{
+    "user_info": {
+        "personal_info": {
+            "name": "geetha",
+            "bio": "Hello! I am Geetha, a motivated Computer Science Engineering student with a passion for exploring various technologies.",
+            "linkedin_url": "http://www.linkedin.com/in/kummari-geetha-a781a7229",
+            "email": "kummarigeetha03@gmail.com",
+            "profile_image": "geetha.png"
+        },
+        "certifications": [
+            {
+                "title": "HTML",
+                "description": "Certified in static website development, responsive web design with Bootstrap and Flexbox."
+            },
+            {
+                "title": "Python Programming, Machine Learning",
+                "description": "Certified in Python programming, focusing on foundational and advanced programming concepts with machine learning algorithms."
+            },
+            {
+                "title": "Dynamic Website Design with JavaScript",
+                "description": "Certified in designing dynamic websites using JavaScript."
+            }
+        ],
+        "education": [
+            {
+                "education": "B. Tech, HITAM - CSE",
+                "board": "Jntuh",
+                "year_of_passing": "2025",
+                "score": "8.5 CGPA"
+            },
+            {
+                "education": "12th, Narayana Junior College",
+                "board": "TSBIE",
+                "year_of_passing": "2021",
+                "score": "96%"
+            },
+            {
+                "education": "10th, PNM High School",
+                "board": "SSC",
+                "year_of_passing": "2019",
+                "score": "9.5 CGPA"
+            }
+        ],
+        "achievements": [
+            {
+                "title": "Sports",
+                "description": "Honored for accomplishments in inter and intra-school badminton, kho-kho, and Bhagavad Gita chanting competitions."
+            },
+            {
+                "title": "Hindi Proficiency",
+                "description": "Completed Hindi exams up to Madhyama level with Dakshina Bharat Hindi Prachar Sabha."
+            }
+        ],
+        "projects": [
+            {
+                "title": "Password Strength Checker",
+                "image": "https://res.cloudinary.com/bw-com/image/upload/f_auto/v1/ctf/7rncvj1f8mw7/7yYK16b2bBdsWbkG9cvijf/6dbf8bc9fefffa54d27a43f774f3d7ec/pw-strength-test-chart.png?_a=DAJAUVWIZAAB",
+                "description": "Developed a password strength checker application to enhance security measures using Python."
+            },
+            {
+                "title": "Sonar-Based Mineral Detection",
+                "image": "https://media.licdn.com/dms/image/D5622AQHsNd5ewLgCbg/feedshare-shrink_2048_1536/0/1711302316802?e=2147483647&v=beta&t=N6ywSOBQGRhFE0LdwU0s5Z1LsOtpooVQzn199EXvEhU",
+                "description": "Developed a sonar-based system for mineral and rock detection, optimizing exploration processes using Machine Learning."
+            },
+            {
+                "title": "Mini Voting System",
+                "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230803111937/Online-Voting-System.webp",
+                "description": "Designed and implemented a mini voting system for educational institutions using JavaScript, HTML, and CSS."
+            }
+        ]
+    },
+    "info_keys": [
+        {
+            "key1": "user_info.personal_info",
+            "type": "grid"
+        },
+        {
+            "key2": "user_info.certifications",
+            "type": "list"
+        },
+        {
+            "key3": "user_info.education",
+            "type": "list"
+        },
+        {
+            "key4": "user_info.achievements",
+            "type": "list"
+        },
+        {
+            "key5": "user_info.projects",
+            "type": "grid"
+        }
+    ]
+}
